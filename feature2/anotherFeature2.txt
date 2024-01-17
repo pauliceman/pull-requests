@@ -1,1 +1,2 @@
 This is feature2 text.
+And now this line is updated in feature2 branch.
